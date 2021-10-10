@@ -16,3 +16,9 @@ Then open the homebrew launcher and start WUP Installer of your choice.
 
 Select the folder of the game you wish to install and let it finish
 
+The goto the Wii U homescreen and open RE3 or REVC and enjoy!
+
+Note: The first bootup will take a while due to converting textures. If you happen to cancel this process go and delete the app data in settings and run it again.
+
+# Credits
+GaryOderNichts - Creator
